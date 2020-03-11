@@ -1,0 +1,9 @@
+J:\University\Proga\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+J:\University\Proga\Lab2\Lab2\bin\Debug\Lab2.exe.config
+J:\University\Proga\Lab2\Lab2\bin\Debug\Lab2.exe
+J:\University\Proga\Lab2\Lab2\bin\Debug\Lab2.pdb
+J:\University\Proga\Lab2\Lab2\bin\Debug\myClass.dll
+J:\University\Proga\Lab2\Lab2\bin\Debug\myClass.pdb
+J:\University\Proga\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+J:\University\Proga\Lab2\Lab2\obj\Debug\Lab2.exe
+J:\University\Proga\Lab2\Lab2\obj\Debug\Lab2.pdb
