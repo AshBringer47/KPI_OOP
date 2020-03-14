@@ -1,0 +1,6 @@
+J:\University\Proga\Lab1\Lab1_CS\bin\Debug\myProjects.exe.config
+J:\University\Proga\Lab1\Lab1_CS\bin\Debug\myProjects.exe
+J:\University\Proga\Lab1\Lab1_CS\bin\Debug\myProjects.pdb
+J:\University\Proga\Lab1\Lab1_CS\obj\Debug\Lab1_CS.csprojAssemblyReference.cache
+J:\University\Proga\Lab1\Lab1_CS\obj\Debug\myProjects.exe
+J:\University\Proga\Lab1\Lab1_CS\obj\Debug\myProjects.pdb
