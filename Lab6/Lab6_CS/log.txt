@@ -1,0 +1,10 @@
+Creation date: 29-Apr-20 02:47:27
+Logs for file: Log
+29-Apr-20 02:47:27:System.ArithmeticException: Incorrect logarithmitic argument
+   at Lab6_CS.Expression.Calculate() in D:\files\University\OOP\Lab6\Lab6_CS\Expression.cs:line 22
+   at Lab6_CS.Program.Main(String[] args) in D:\files\University\OOP\Lab6\Lab6_CS\Program.cs:line 20
+
+29-Apr-20 02:47:27:System.DivideByZeroException: You can't divide by zero. Denominator = 0
+   at Lab6_CS.Expression.Calculate() in D:\files\University\OOP\Lab6\Lab6_CS\Expression.cs:line 20
+   at Lab6_CS.Program.Main(String[] args) in D:\files\University\OOP\Lab6\Lab6_CS\Program.cs:line 20
+
