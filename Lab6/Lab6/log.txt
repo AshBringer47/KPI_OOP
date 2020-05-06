@@ -1,0 +1,2 @@
+Thu May  7 01:57:52 2020
+Divide by zero exception. Denominator = 0.
